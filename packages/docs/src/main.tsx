@@ -11,6 +11,7 @@ import {
 	Data,
 	Options,
 	Api,
+	AnalyticsInstrumentation,
 	Themes,
 	Axes,
 	Palettes,
@@ -25,6 +26,7 @@ import {
 	CirclePack,
 	Combo,
 	Donut,
+	EventListeners,
 	Gauge,
 	Heatmap,
 	Histogram,
@@ -67,6 +69,8 @@ const App: React.FC = () => (
 				<Route path="truncation" element={<Truncation />} />
 				<Route path="zoombar" element={<Zoombar />} />
 				<Route path="apidocs" element={<Api />} />
+				<Route path="analytics-instrumentation" element={<AnalyticsInstrumentation />} />
+				<Route path="event-listeners" element={<EventListeners />} />
 				<Route path="themes" element={<Themes />} />
 				<Route path="axes" element={<Axes />} />
 				<Route path="legends" element={<Legends />} />

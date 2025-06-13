@@ -3,6 +3,183 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.23.10 (2025-05-26)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.23.9 (2025-05-22)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.23.8 (2025-05-20)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.23.7 (2025-05-08)
+
+### Bug Fixes
+
+- add presentation role for pie n donut chart skeleton
+  ([#1986](https://github.com/carbon-design-system/carbon-charts/issues/1986))
+  ([ad144ec](https://github.com/carbon-design-system/carbon-charts/commit/ad144ecdb3d35fb91f223fef9ad45305431fd119))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.23.6 (2025-04-22)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.23.5 (2025-04-15)
+
+### Bug Fixes
+
+- **Tooltip:** formatter not called when value is falsey
+  ([#1980](https://github.com/carbon-design-system/carbon-charts/issues/1980))
+  ([2734886](https://github.com/carbon-design-system/carbon-charts/commit/27348863ede9f15f82ba4a1517e6b2c5aee439b4))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.23.4 (2025-04-15)
+
+### Bug Fixes
+
+- **Skeleton:** add role=presentation
+  ([#1979](https://github.com/carbon-design-system/carbon-charts/issues/1979))
+  ([d9b0aa5](https://github.com/carbon-design-system/carbon-charts/commit/d9b0aa510e1587be03c459e8c5e02bb8d8273c88))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.23.3 (2025-04-15)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.23.2 (2025-04-06)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.23.1 (2025-04-04)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 1.23.0 (2025-03-05)
+
+### Features
+
+- **docs:** add analytics instrumentation doc
+  ([#1966](https://github.com/carbon-design-system/carbon-charts/issues/1966))
+  ([f0da6ae](https://github.com/carbon-design-system/carbon-charts/commit/f0da6aef3d6d51b49235069c863d92bbd5b9e310))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.22.21 (2025-03-05)
+
+### Bug Fixes
+
+- **Choropleth:** issues with custom color usage
+  ([#1965](https://github.com/carbon-design-system/carbon-charts/issues/1965))
+  ([290e6eb](https://github.com/carbon-design-system/carbon-charts/commit/290e6eb84951dd7d658334c9bcf7c75560405b72))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.22.20 (2025-03-05)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.22.19 (2025-02-27)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.22.18 (2025-02-18)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.22.17 (2025-02-12)
+
+### Bug Fixes
+
+- **stackblitz:** react examples
+  ([#1957](https://github.com/carbon-design-system/carbon-charts/issues/1957))
+  ([1427786](https://github.com/carbon-design-system/carbon-charts/commit/14277866a0933eb99b1097818d4611cc140b9da2))
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.22.16 (2025-02-10)
+
+**Note:** Version bump only for package @carbon/charts-svelte
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## 1.22.15 (2025-01-16)
 
 **Note:** Version bump only for package @carbon/charts-svelte
